@@ -27,7 +27,17 @@ body {
 }
 
 p{
+  /*height: 40px;*/
   text-align: center;
   margin: 3px 0;
   font-size: 17px;
+  border: 2px solid;
+  border-color: lightgray;
+  border-radius: 15px;
+  background-color: navy;
+  color: white;
+}
+.ts{
+  color: red;
+  margin-left: 15px;
 }
